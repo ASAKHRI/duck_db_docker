@@ -1,2 +1,5 @@
 data/
 virtualenv/
+*.duckdb
+__pycache__/
+*.pyc
