@@ -13,7 +13,13 @@ Une connexion Internet pour récupérer l’image Python lors de la première bu
 ## Installation & lancement
 ### Cloner le repo git :
 
-https://github.com/ASAKHRI/duck_db_docker.git
+ouvrir un terminal et clonez le repo :
+
+git clone https://github.com/ASAKHRI/duck_db_docker.git
+
+### accedez au dossier contenant le projet :
+
+cd duck_db_docker
 
 ### construire l'image docker :
 
