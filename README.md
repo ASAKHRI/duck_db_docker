@@ -89,16 +89,3 @@ Pandas
 
 Docker
 
-Installation et utilisation
-Pré-requis
-
-Python 3.8+
-
-
-Structure du projet
-mini-data-lake/
-├─ data/                  # Datasets CSV et Parquet
-├─ app.py                 # Application Streamlit
-├─ Dockerfile             # Dockerfile pour conteneurisation
-├─ requirements.txt       # Dépendances Python
-└─ README.md
